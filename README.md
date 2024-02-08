@@ -4,8 +4,8 @@
 
 
 - 📧 **Email:** rohitkm009@gmail.com
-- 🔗 **LinkedIn:** [linkedin.com/in/rohithmohan92](https://www.linkedin.com/in/rohithmohan92)
-- 🐙 **Github:** [github.com/ROHITHKM92](https://github.com/ROHITHKM92)
+- 🔗 **LinkedIn:** [ROHITHMOHAN92](https://www.linkedin.com/in/rohithmohan92)
+- 🐙 **Github:** [ROHITHKM92](https://github.com/ROHITHKM92)
 - 👨‍💼 **Gender:** Male
 - 📅 **DOB:** 06/03/1992
 
