@@ -79,7 +79,7 @@ BVM HC College, Cherpunkal, Kottayam
 - [Data Visualization with R - IBM, Certificate ID Number: b9d7ab2585dd464cb09a160125f4ba16.](https://www.credly.com/badges/c8237d3f-200e-40ca-a445-d09bbc2742db/linked_in_profile)
 - [R for Data Science - IBM, Certificate ID Number: 122a6be9091448f2a5449a0c827430e7.](https://courses.cognitiveclass.ai/certificates/122a6be9091448f2a5449a0c827430e7)
 - [R Essentials - IBM, Certificate ID Number: af5673b7e7fc4ff2880b039b131cdc30.](https://www.credly.com/badges/a9aa0417-f6cf-425c-b5d1-4da497c565e5?source=linked_in_profile)
-- Health Research Fundamentals - NPTEL, Credential ID: NPTEL18GE11S21120538.
+- [Health Research Fundamentals - NPTEL, Credential ID: NPTEL18GE11S21120538.](https://github.com/ROHITHKM92/ROHITH/blob/e84dae4fc2bb71b2ade263f7d81882b8783f5d0e/Certifications/Health%20research%20fundamentals_ROHITH.pdf)
 
 ## Professional Associations
 - Life member, Indian Society for Medical Statistics (ISMS) (Life membership number: 202225/LM).
