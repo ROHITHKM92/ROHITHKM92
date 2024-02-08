@@ -3,20 +3,19 @@
 ![Data Analysist](https://github.com/ROHITHKM92/Power-BI-PROJECT-1/assets/87298902/40fa5535-2989-42e8-a63a-5275e50fe4a9)
 
 
-- 📞 **Phone:** +91 9999999999
-- 📧 **Email:** rohith9999@gmail.com
-- 🔗 **LinkedIn:** [linkedin.com/in/rohithmohan9999](https://www.linkedin.com/in/rohithmohan9999)
-- 🐙 **Github:** [github.com/ROHITH9999](https://github.com/ROHITH9999)
+- 📧 **Email:** rohitkm009@gmail.com
+- 🔗 **LinkedIn:** [linkedin.com/in/rohithmohan9999](https://www.linkedin.com/in/rohithmohan92)
+- 🐙 **Github:** [github.com/ROHITH9999](https://github.com/ROHITH92)
 - 👨‍💼 **Gender:** Male
-- 📅 **DOB:** 06/03/1990
+- 📅 **DOB:** 06/03/1992
 
 ## About Me
-Experienced Statistician and Data Analyst with a passion for a research-oriented career. I hold an MSc in Biostatistics and possess over 6 years of experience in Data Analysis, Report Writing, and Public Health Statistics. Proficient in statistical and analytical tools and software, including Advanced Excel (VBA-MACRO), R, SPSS, STATA, SAS, and SQL. Skilled in organizing, coordinating, and managing multiple tasks simultaneously.
+Experienced Statistician and Data Analyst with a passion for a research-oriented career. I hold an MSc in Biostatistics and possess over 6 years of experience in Data Analysis, Report Writing, and Public Health Statistics. Proficient in statistical and analytical tools and software, including  Power BI, Tableau, SQL, R, Advanced Excel, SPSS, STATA, SAS and Python. Skilled in organizing, coordinating, and managing multiple tasks simultaneously.
 
 ## Professional Summary
 - Seeking a Biostatistician role to leverage my experience and contribute effectively to the organization.
 - Energetic career development professional with an MSc in Biostatistics and over 6 years of data analysis experience.
-- Proficient in statistical and analytical tools and software, including MS Excel, SPSS, R, Tableau, Basic SAS, Basic SQL, and Basic Python.
+- Proficient in statistical and analytical tools and software, including Power BI, Tableau, SQL, R, Advanced Excel, SPSS, STATA, Basic SAS & Basic Python.
 - Experienced in organizing, coordinating, and managing multiple tasks simultaneously.
 - Respected and self-motivated professional with exceptional communication, report-making, and presentation skills.
 
@@ -26,7 +25,7 @@ Experienced Statistician and Data Analyst with a passion for a research-oriented
 *(July 2018 - September 2023)*
 - Conducted data quality checks, ensuring accuracy, completeness, and data integrity.
 - Efficiently cleaned and coded data using R, SPSS, and Excel for analysis.
-- Utilized statistical software (R, SPSS, STATA, Excel, Tableau, QGIS, SQL) for insightful analysis of complex data sets.
+- Utilized statistical software (R, SPSS, STATA, Excel,Power BI, Tableau, QGIS, SQL, Python) for insightful analysis of complex data sets.
 - Prepared comprehensive reports with visually appealing visualizations and summary statistics for easy interpretation.
 - Conducted data analysis for scientific publications, including significance testing, data modeling, projections, and visualization techniques.
 - Made valuable contributions to various projects.
@@ -47,7 +46,7 @@ Experienced Statistician and Data Analyst with a passion for a research-oriented
 - 📈 Data analysis and data management.
 - 🩺 Epidemiological studies and Design and analysis of clinical trials.
 - 📊 Application of Statistical methods to Medical data.
-- 🛠️ R, Excel, Tableau, SAS & IBM SPSS Statistics Applications.
+- 🛠️ R, Python, Power BI, Excel, Tableau, SAS & IBM SPSS Statistics Applications.
 
 ## Publications
 1. Burden of cancers in India - estimates of cancer crude incidence, YLLs, YLDs, and DALYs for 2021 and 2025 based on National Cancer Registry Program. - BMC Cancer, May 11, 2022. [DOI](https://doi.org/10.1186/s12885-022-09578-1)
@@ -61,7 +60,7 @@ Experienced Statistician and Data Analyst with a passion for a research-oriented
 
 ## Skills
 - 🖥️ **Programming:** SPSS, R, Basics of SAS, SQL & Python.
-- 📊 **Software:** Proficient in MS Office (Excel, Word, PowerPoint).
+- 📊 **Software:** Proficient in Power BI, Tableau, QGIS and MS Office (Excel, Word, PowerPoint).
 - 💬 **Soft Skills:** Strong communication, leadership, team management, problem-solving.
 - 😊 **Attitude:** Positive attitude and strong commitment.
 
