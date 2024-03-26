@@ -59,7 +59,7 @@ Experienced Statistician and Data Analyst with a passion for a research-oriented
 - The District Cancer Registry, Kollam, the 1st Population Based Rural Cancer Registry in Kerala, India - Problems and Achievements - ICMR-National Centre for Disease Informatics and Research (National Cancer Registry Programme), November 1, 2017.
 
 ## Skills
-- 🖥️ **Programming:** SPSS, R, Basics of SAS, SQL & Python.
+- 🖥️ **Programming:** SPSS, R, SAS, SQL & Python.
 - 📊 **Software:** Proficient in Power BI, Tableau, QGIS and MS Office (Excel, Word, PowerPoint).
 - 💬 **Soft Skills:** Strong communication, leadership, team management, problem-solving.
 - 😊 **Attitude:** Positive attitude and strong commitment.
