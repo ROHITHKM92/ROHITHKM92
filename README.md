@@ -51,6 +51,8 @@ Experienced Statistician and Data Analyst with a passion for a research-oriented
 ## Publications
 1. Burden of cancers in India - estimates of cancer crude incidence, YLLs, YLDs, and DALYs for 2021 and 2025 based on National Cancer Registry Program. - BMC Cancer, May 11, 2022. [DOI](https://doi.org/10.1186/s12885-022-09578-1)
 2. Assessing progress of India in reduction of premature mortality due to four noncommunicable diseases towards achieving the WHO 25×25 goal and the sustainable development goals. - Sustainable Development, September 19, 2023. [DOI](https://doi.org/10.1002/sd.2761)
+3. Burden of female breast cancer in India: estimates of YLDs, YLLs, and DALYs at national and subnational levels based on the national cancer registry programme. Breast Cancer Res Treat, March 04, 2024. [DOI](https://doi.org/10.1007/s10549-024-07264-3)
+4. District-Wise Heterogeneity in Blood Pressure Measurements, Prehypertension, Raised Blood Pressure, and Their Determinants Among Indians: National Family Health Survey-5. International Journal of Public Health, March 18, 2024. [DOI](https://doi.org/10.3389/ijph.2024.1606766)
 
 ## Reports
 - Report on Monitoring Survey of Cancer Risk Factors and Health System Response in North East Region (NER) - ICMR-National Centre for Disease Informatics and Research, April 30, 2022.
